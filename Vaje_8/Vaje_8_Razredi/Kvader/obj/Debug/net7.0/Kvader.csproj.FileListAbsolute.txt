@@ -1,0 +1,15 @@
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.csproj.AssemblyReference.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.AssemblyInfoInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.AssemblyInfo.cs
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.csproj.CoreCompileInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/bin/Debug/net7.0/Kvader
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/bin/Debug/net7.0/Kvader.deps.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/bin/Debug/net7.0/Kvader.runtimeconfig.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/bin/Debug/net7.0/Kvader.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/bin/Debug/net7.0/Kvader.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/refint/Kvader.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/Kvader.genruntimeconfig.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kvader/obj/Debug/net7.0/ref/Kvader.dll

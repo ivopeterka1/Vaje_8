@@ -1,0 +1,15 @@
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/bin/Debug/net7.0/Kocka
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/bin/Debug/net7.0/Kocka.deps.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/bin/Debug/net7.0/Kocka.runtimeconfig.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/bin/Debug/net7.0/Kocka.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/bin/Debug/net7.0/Kocka.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.csproj.AssemblyReference.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.AssemblyInfoInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.AssemblyInfo.cs
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.csproj.CoreCompileInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/refint/Kocka.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/Kocka.genruntimeconfig.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Kocka/obj/Debug/net7.0/ref/Kocka.dll

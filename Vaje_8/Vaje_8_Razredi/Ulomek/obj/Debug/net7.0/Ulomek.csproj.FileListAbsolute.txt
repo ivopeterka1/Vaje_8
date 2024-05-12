@@ -1,0 +1,15 @@
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.csproj.AssemblyReference.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.AssemblyInfoInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.AssemblyInfo.cs
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.csproj.CoreCompileInputs.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/bin/Debug/net7.0/Ulomek
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/bin/Debug/net7.0/Ulomek.deps.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/bin/Debug/net7.0/Ulomek.runtimeconfig.json
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/bin/Debug/net7.0/Ulomek.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/bin/Debug/net7.0/Ulomek.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/refint/Ulomek.dll
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.pdb
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/Ulomek.genruntimeconfig.cache
+/Users/ivopeterka/Desktop/Vaje_8_Razredi/Ulomek/obj/Debug/net7.0/ref/Ulomek.dll
